@@ -1,4 +1,5 @@
 # CPP101: Problem Solving Through C++
+- IDE Compiler by IITB -> [Simple CodeBlocks](www.cse.iitb.ac.in/æranade/simplecpp)
 
 ## Acknowledgements
 
@@ -22,31 +23,31 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 
 ## Course Syllabus
 
-### Module M) Course Logistics and Overview
+### Course Logistics and Overview
 - Welcome to the Course: Know the Bodhitree Platform  
 - Lab Tools and Installation Instructions  
 - An Introduction to the Unix Command-Line  
 - Write your first C++ program  
 
-### Module M) Introduction to the Programming Labs
+### Introduction to the Programming Labs
 - Introduction and Simplecpp  
 - Problem Solving using Computers  
 
-### Module M) Variables and Data Types
+### Variables and Data Types
 - Variables and Data Types  
 - Variable Assignment and Scope  
 - Assignment statements and arithmetic expressions  
 - Reassignment, sequence generation, and accumulation  
 - Blocks and scope  
 
-### Module M) Program Design and Simplecpp Graphics
+### Program Design and Simplecpp Graphics
 - Program design  
 - Specification and construction of test cases  
 - Translating a manual algorithm to a program  
 - Debugging  
 - Simplecpp graphics  
 
-### Module M) Conditional Execution
+### Conditional Execution
 - if statement  
 - Basic if statement  
 - Most general form of if  
@@ -54,7 +55,7 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - Boolean expressions  
 - A larger program example  
 
-### Module M) Loops
+### Loops
 - The while loop  
 - Loop concepts  
 - Mark averaging  
@@ -74,7 +75,7 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - Simulating a water tank  
 - Arithmetic on very large numbers  
 
-### Module M) Functions
+### Functions
 - Function basics  
 - Function parts and examples  
 - Contract view of functions  
@@ -101,7 +102,7 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - Default parameter values  
 - Function overloading  
 
-### Module M) Arrays
+### Arrays
 
 #### Introduction and Examples
 - Array basics  
@@ -137,7 +138,7 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - Merge function  
 - Mergesort conclusion  
 
-### Module M) Structures and Classes
+### Structures and Classes
 
 #### Structures
 - Introduction to structures  
@@ -158,7 +159,7 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - Graphics and I/O classes  
 - Output formatting remarks  
 
-### Module M) Miscellaneous Material
+### Miscellaneous Material
 
 #### Implementing Classes: A Case Study
 - Introduction  
@@ -182,4 +183,3 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 - RSMTAB and implementation  
 - Sophisticated solutions  
 
----
