@@ -1,7 +1,5 @@
 # CPP101: Problem Solving Through C++
 
----
-
 ## Acknowledgements
 
 All course videos are sourced from a popular C++ programming course taught by **Prof. Abhiram Ranade**. He is the author of the book *An Introduction to Programming through C++*, on which the course is based, and which also formed the foundation of the widely recognized **NPTEL course on C++ programming**.
@@ -21,8 +19,6 @@ All labs and exercises draw from past offerings at **IIT Bombay** and therefore 
 
 - **Mrs. Firuza Karmali**  
   Department of CSE, IIT Bombay
-
----
 
 ## Course Syllabus
 
